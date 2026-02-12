@@ -1,0 +1,1 @@
+# outlook-plugin-installation-script
